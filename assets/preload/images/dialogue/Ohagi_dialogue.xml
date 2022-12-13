@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ohagi_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normal0000" x="844" y="998" width="817" height="1007" frameX="-11" frameY="0" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="normal0001" x="844" y="998" width="817" height="1007" frameX="-11" frameY="0" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="normal0002" x="0" y="2976" width="833" height="994" frameX="-3" frameY="-13" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="normal0003" x="0" y="2976" width="833" height="994" frameX="-3" frameY="-13" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="normal0004" x="0" y="0" width="840" height="988" frameX="0" frameY="-19" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="normal0005" x="0" y="0" width="840" height="988" frameX="0" frameY="-19" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="sing0000" x="1665" y="998" width="817" height="1007" frameX="-11" frameY="0" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="sing0001" x="1665" y="998" width="817" height="1007" frameX="-11" frameY="0" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="sing0002" x="837" y="2976" width="833" height="994" frameX="-3" frameY="-13" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="sing0003" x="837" y="2976" width="833" height="994" frameX="-3" frameY="-13" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="sing0004" x="0" y="992" width="840" height="988" frameX="0" frameY="-19" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="sing0005" x="0" y="992" width="840" height="988" frameX="0" frameY="-19" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="smile0000" x="1674" y="2009" width="817" height="1007" frameX="-11" frameY="0" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="smile0001" x="1674" y="2009" width="817" height="1007" frameX="-11" frameY="0" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="smile0002" x="844" y="0" width="833" height="994" frameX="-3" frameY="-13" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="smile0003" x="844" y="0" width="833" height="994" frameX="-3" frameY="-13" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="smile0004" x="0" y="1984" width="840" height="988" frameX="0" frameY="-19" frameWidth="840" frameHeight="1007"/>
+	<SubTexture name="smile0005" x="0" y="1984" width="840" height="988" frameX="0" frameY="-19" frameWidth="840" frameHeight="1007"/>
+</TextureAtlas>
